@@ -21,6 +21,14 @@ Este projeto é uma interface de **tela de login responsiva** feita com **HTML5 
 
 ## 🚀 Como usar
 
-1. Clone ou baixe este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/login-animation.git
+```bash
+# 1. Clone ou baixe este repositório
+git clone https://github.com/LucasViniciusBermudes/css-login-page.git
+
+# 2. Acesse a pasta do projeto
+cd css-login-page
+
+# 3. Abra o arquivo index.html no navegador
+start index.html      # Windows
+open index.html       # macOS
+xdg-open index.html   # Linux
